@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#BFFF00" >
+
+    <TableLayout
+        android:id="@+id/LEVELONEtableLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" >
+
+        <TableRow
+            android:id="@+id/LEVELONEtableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/LEVELONEeditText00"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                
+                
+                 />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText01"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                
+                />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText02"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB" 
+    			android:gravity="center"
+                
+                />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText03"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                
+                 />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/LEVELONEtableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/LEVELONEeditText10"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                 />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText11"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                 />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText12"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText13"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                 />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/LEVELONEtableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/LEVELONEeditText20"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText21"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                 />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText22"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                 />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText23"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                 />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/LEVELONEtableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/LEVELONEeditText30"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB" 
+    			android:gravity="center"
+                />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText31"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                 />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText32"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                 />
+
+            <EditText
+                android:id="@+id/LEVELONEeditText33"
+                android:layout_width="45dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:textColor="#FFCBDB"
+    			android:gravity="center" 
+                 />
+        </TableRow>
+    </TableLayout>
+    
+    <EditText android:id="@+id/dummyEditTextFocus" 
+	android:layout_width="0px"
+	android:layout_height="0px" />
+
+    <Button
+        android:id="@+id/LEVELONEsubmitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/LEVELONEenterButton2"
+        android:layout_centerHorizontal="true"
+        android:text="Submit"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif"
+        android:shadowColor="#FFCBDB"
+    	android:shadowDx="0.0"
+    	android:shadowDy="0.0"
+    	android:shadowRadius="2.0" />
+
+    <Button
+        android:id="@+id/LEVELONEbackButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/LEVELONEenterButton2"
+        android:layout_centerHorizontal="true"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:text="Main Menu"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/LEVELONEtextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif"
+        android:gravity="center"
+         />
+
+    <Button
+        android:id="@+id/LEVELONEenterButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/LEVELONEenterButton1"
+        android:layout_alignBottom="@+id/LEVELONEenterButton1"
+        android:layout_toLeftOf="@+id/LEVELONEenterButton3"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:text="II"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/LEVELONEenterButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/LEVELONEsubmitButton"
+        android:layout_marginLeft="14dp"
+        android:layout_toRightOf="@+id/LEVELONEbackButton"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:text="IV"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/LEVELONEenterButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="75dp"
+        android:layout_toLeftOf="@+id/LEVELONEenterButton2"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:text="I"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/LEVELONEenterButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/LEVELONEbackButton"
+        android:layout_alignRight="@+id/LEVELONEtableLayout1"
+        android:layout_marginRight="25dp"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:text="III"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif" />
+
+</RelativeLayout>

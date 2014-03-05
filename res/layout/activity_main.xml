@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" 
+    android:background="#BFFF00">
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mMlevelTwoButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:text="\t   S. Matthew English \n  University #: 2013950101" 
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif"
+        android:shadowColor="#FFCBDB"
+    	android:shadowDx="0.0"
+    	android:shadowDy="0.0"
+    	android:shadowRadius="2.0"/>
+
+    <TextView
+        android:id="@+id/sudokuTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:text="Sudoku"
+        android:textColor="#800080"
+        android:textSize="40sp"
+        android:typeface="serif"
+        android:shadowColor="#FFCBDB"
+    	android:shadowDx="0.0"
+    	android:shadowDy="0.0"
+    	android:shadowRadius="2.0" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/mMlevelTwoButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="17dp"
+        android:src="@drawable/finalsme" />
+
+    <Button
+        android:id="@+id/mMlevelOneButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="83dp"
+        android:layout_marginRight="34dp"
+        android:layout_toLeftOf="@+id/mMlevelTwoButton"
+        android:text="Level I "
+        android:textColor="#800080"
+        android:textSize="20sp"
+        android:typeface="serif"
+        android:shadowColor="#FFCBDB"
+    	android:shadowDx="0.0"
+    	android:shadowDy="0.0"
+    	android:shadowRadius="2.0" />
+
+    <Button
+        android:id="@+id/mMlevelTwoButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/mMlevelOneButton"
+        android:layout_alignBottom="@+id/mMlevelOneButton"
+        android:layout_alignRight="@+id/imageView1"
+        android:layout_marginRight="30dp"
+        android:text="Level II"
+        android:textColor="#800080"
+        android:textSize="20sp"
+        android:typeface="serif"
+        android:shadowColor="#FFCBDB"
+    	android:shadowDx="0.0"
+    	android:shadowDy="0.0"
+    	android:shadowRadius="2.0" />
+
+</RelativeLayout>

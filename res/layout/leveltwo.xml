@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#BFFF00" >
+
+    <TableLayout
+        android:id="@+id/L2table"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" >
+
+        <TableRow
+            android:id="@+id/L2tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/L2editText00"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0"
+    			android:gravity="center" 
+                
+
+
+                 />
+
+            <EditText
+                android:id="@+id/L2editText01"
+               
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0"
+    			android:gravity="center"  
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText02"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0"
+    			android:gravity="center"  
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText03"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:gravity="center" 
+                
+                 />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/L2tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/L2editText10"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:gravity="center" 
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText11"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:gravity="center" 
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText12"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:gravity="center" 
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText13"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:gravity="center" 
+                
+                 />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/L2tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/L2editText20"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:gravity="center" 
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText21"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0"  
+    			android:gravity="center"
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText22"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:gravity="center" 
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText23"
+                
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textColor="#FFCBDB"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:gravity="center" 
+                
+                 />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/L2tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/L2editText30"
+                android:textColor="#FFCBDB"
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0"  
+    			android:gravity="center"
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText31"
+                android:textColor="#FFCBDB"
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:gravity="center" 
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText32"
+                android:textColor="#FFCBDB"
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0"  
+    			android:gravity="center"
+                
+                 />
+
+            <EditText
+                android:id="@+id/L2editText33"
+                android:textColor="#FFCBDB"
+                android:layout_height="wrap_content"
+                android:layout_width="45dp"
+                android:textStyle="bold"
+                android:shadowColor="#800080"
+    			android:shadowDx="0.0"
+    			android:shadowDy="0.0"
+    			android:shadowRadius="2.0" 
+    			android:gravity="center"
+    			
+                
+                 />
+        </TableRow>
+    </TableLayout>
+    
+    <EditText android:id="@+id/zdummyEditTextFocus" 
+	android:layout_width="0px"
+	android:layout_height="0px" />
+
+    <Button
+        android:id="@+id/L2back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:text="Main Menu"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif"
+        android:shadowColor="#FFCBDB"
+    	android:shadowDx="0.0"
+    	android:shadowDy="0.0"
+    	android:shadowRadius="2.0" />
+
+    <TextView
+        android:id="@+id/L2textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif"
+        android:gravity="center"
+         />
+
+    <Button
+        android:id="@+id/L2submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/L2enterButton2"
+        android:layout_centerHorizontal="true"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:text="Submit"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/L2enterButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/L2back"
+        android:layout_toRightOf="@+id/L2enterButton3"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:text="IV"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/L2enterButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/L2back"
+        android:layout_toRightOf="@+id/L2enterButton2"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:text="III"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/L2enterButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/L2back"
+        android:layout_marginRight="15dp"
+        android:layout_toLeftOf="@+id/L2back"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:text="I"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/L2enterButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/L2back"
+        android:layout_alignLeft="@+id/L2table"
+        android:layout_marginLeft="23dp"
+        android:shadowColor="#FFCBDB"
+        android:shadowDx="0.0"
+        android:shadowDy="0.0"
+        android:shadowRadius="2.0"
+        android:text="II"
+        android:textColor="#800080"
+        android:textSize="14sp"
+        android:typeface="serif" />
+
+</RelativeLayout>
